@@ -3,7 +3,7 @@
 Este repositório contém uma estrutura escalável para testes de performance usando k6.
 Além dos testes tradicionais (Smoke, Load, Stress, Spike e Soak), a estrutura segue boas práticas como:
 
-- ✅ Integração com Grafana e Prometheus para monitoramento em tempo real.
+- ✅ Integração com Grafana para monitoramento em tempo real.
 - ✅ Page Object Model (POM) para modularização e reuso de código.
 - ✅ Organização por pastas para melhor escalabilidade.
 ---
